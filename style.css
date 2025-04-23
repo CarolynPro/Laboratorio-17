@@ -27,8 +27,16 @@ ul{
     padding: 0;
 }
 ul li{
-    background-color: #333;
+    background-color: #4a996b;
     margin: 5px 0;
     padding: 10px;
     border-radius: 5px;
+}
+footer{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    bottom: 0;
 }
