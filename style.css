@@ -1,5 +1,5 @@
 body{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #f4f4f4;
     margin: 0;
     padding: 0;
@@ -31,6 +31,7 @@ ul li{
     margin: 5px 0;
     padding: 10px;
     border-radius: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 footer{
     background-color: #333;
@@ -39,6 +40,10 @@ footer{
     padding: 10px;
     width: 100%;
     bottom: 0;
+}
+
+footer h2{
+    text-align: center;
 }
 
 body{
